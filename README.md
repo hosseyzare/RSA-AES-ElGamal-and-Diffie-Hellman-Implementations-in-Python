@@ -1,5 +1,5 @@
 # Cryptographic Algorithms Toolkit
-
+![Example](Capture.PNG "Example Image")
 ## Introduction
 This Cryptographic Algorithms Toolkit is designed to demonstrate the implementation and application of key cryptographic protocols including RSA, AES in CTR mode, ElGamal encryption, and the Diffie-Hellman key exchange. It serves as an educational tool to understand the principles of cryptography and its applications in secure communication.
 
